@@ -18,6 +18,4 @@ https://www.zillow.com/research/data/#median-home-value
 
 https://www.zillow.com/research/data/#rental-data
 
-![image](C:\Users\Maria\Downloads\dashboard.png)
-
-
+![](dashboard.png)
